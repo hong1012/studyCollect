@@ -6,3 +6,10 @@
 
 3.[一张图看懂开源许可协议，开源许可证GPL、BSD、MIT、Mozilla、Apache和LGPL的区别]
 (http://blog.csdn.net/testcs_dn/article/details/38496107)
+
+4.[React 技术栈系列教程]
+(http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
+
+5.[为什么说DOM操作很慢]
+(http://www.cnblogs.com/yuzhongwusan/articles/5275933.html)
+
